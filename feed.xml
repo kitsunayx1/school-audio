@@ -3,7 +3,7 @@
   <channel>
     <title>NSEC506 Study Audio</title>
     <link>https://github.com/kitsunayx1/school-audio</link>
-    <description>Weekly reading summaries and per-reading deep dives for NSEC506. AI-narrated study notes, not the original texts.</description>
+    <description>NSEC506 readings by week: an AI-narrated summary of each reading, plus full read-alouds of openly licensed readings.</description>
     <language>en-us</language>
     <itunes:author>NSEC506 Study Audio</itunes:author>
     <itunes:image href="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/cover.jpg"/>
@@ -11,62 +11,52 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
-      <title>Week 2 Deep Dive: Epstein, Google's Triple Threat</title>
-      <description>Epstein, R. (2022). Google's triple threat: To democracy, our children, and our minds. American Institute for Behavioral Research and Technology.</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/05-epstein.mp3" length="13542381" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/05-epstein.mp3</guid>
+      <title>Week 2, Epstein: Summary</title>
+      <description>Summary of Epstein, R. (2022). Google's triple threat: To democracy, our children, and our minds. American Institute for Behavioral Research and Technology.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/05-epstein-summary.mp3" length="3117069" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/05-epstein-summary.mp3</guid>
       <pubDate>Tue, 13 Oct 2026 12:01:00 +0000</pubDate>
-      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:duration>00:04:19</itunes:duration>
       <itunes:season>2</itunes:season>
-      <itunes:episode>6</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title>Week 2 Deep Dive: Zhang et al., mapping cyberspace</title>
-      <description>Zhang, L., et al. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353.</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/04-zhang-et-al.mp3" length="12136365" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/04-zhang-et-al.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 12:02:00 +0000</pubDate>
-      <itunes:duration>00:16:51</itunes:duration>
+      <title>Week 2, Zhang et al.: Summary</title>
+      <description>Summary of Zhang, L., et al. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/04-zhang-et-al-summary.mp3" length="3501549" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/04-zhang-et-al-summary.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:04:51</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title>Week 2 Deep Dive: Svete, how countries organize cybersecurity</title>
-      <description>Svete, U. (2025). Cybersecurity between technological determinism, political governance, and national security challenges. Journal of Comparative Politics, 18(2), 107-126.</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/03-svete.mp3" length="13095981" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/03-svete.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 12:03:00 +0000</pubDate>
-      <itunes:duration>00:18:11</itunes:duration>
+      <title>Week 2, Svete: Summary</title>
+      <description>Summary of Svete, U. (2025). Cybersecurity between technological determinism, political governance, and national security challenges. Journal of Comparative Politics, 18(2), 107-126.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/03-svete-summary.mp3" length="4325517" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/03-svete-summary.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:06:00</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title>Week 2 Deep Dive: Fischerkeller &amp; Harknett, the strategic nature of the digital age</title>
-      <description>Fischerkeller, M. P., &amp; Harknett, R. J. (2023). The strategic nature of the digital age. The Brown Journal of World Affairs, 30(1).</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/02-fischerkeller-harknett.mp3" length="12199725" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/02-fischerkeller-harknett.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 12:04:00 +0000</pubDate>
-      <itunes:duration>00:16:56</itunes:duration>
+      <title>Week 2, Fischerkeller &amp; Harknett: Summary</title>
+      <description>Summary of Fischerkeller, M. P., &amp; Harknett, R. J. (2023). The strategic nature of the digital age. The Brown Journal of World Affairs, 30(1).</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/02-fischerkeller-harknett-summary.mp3" length="3972141" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/02-fischerkeller-harknett-summary.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>00:05:30</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <title>Week 2 Deep Dive: Foulon &amp; Meibauer, cyberspace as a structural modifier</title>
-      <description>Foulon, M., &amp; Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458.</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/01-foulon-meibauer.mp3" length="11048301" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/01-foulon-meibauer.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 12:05:00 +0000</pubDate>
-      <itunes:duration>00:15:20</itunes:duration>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>2</itunes:episode>
-    </item>
-    <item>
-      <title>Week 2 Summary: Cyberspace, strategy and power</title>
-      <description>All five week 2 readings in one episode: what each argues, its evidence, links to week 1 (strategy, restraint, deterrence), and how the readings fit together.</description>
-      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/00-week-summary.mp3" length="18112446" type="audio/mpeg"/>
-      <guid isPermaLink="false">week02/00-week-summary.mp3</guid>
-      <pubDate>Tue, 13 Oct 2026 12:06:00 +0000</pubDate>
-      <itunes:duration>00:25:09</itunes:duration>
+      <title>Week 2, Foulon &amp; Meibauer: Summary</title>
+      <description>Summary of Foulon, M., &amp; Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/01-foulon-meibauer-summary.mp3" length="4083597" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/01-foulon-meibauer-summary.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:07:00 +0000</pubDate>
+      <itunes:duration>00:05:40</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
