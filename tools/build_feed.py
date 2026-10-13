@@ -49,7 +49,7 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
   <channel>
     <title>NSEC506 Study Audio</title>
     <link>https://github.com/kitsunayx1/school-audio</link>
-    <description>Weekly reading summaries and per-reading deep dives for NSEC506. AI-narrated study notes, not the original texts.</description>
+    <description>NSEC506 readings by week: an AI-narrated summary of each reading, plus full read-alouds of openly licensed readings.</description>
     <language>en-us</language>
     <itunes:author>NSEC506 Study Audio</itunes:author>
     <itunes:image href="{BASE}cover.jpg"/>
@@ -64,7 +64,7 @@ open(os.path.join(ROOT, "feed.xml"), "w").write(feed)
 
 open(os.path.join(ROOT, "README.md"), "w").write(f"""# NSEC506 Study Audio
 
-AI-narrated study notes for NSEC506 readings, sorted by week. Each week has one summary episode covering all readings, then a deep dive per reading. These are paraphrased study notes, not recordings of the original texts.
+AI-narrated audio for NSEC506 readings, sorted by week. Each reading gets a summary episode (paraphrased study notes). Readings published under an open license (Creative Commons Attribution) also get a full read-aloud, with in-text citations, footnotes and references left out and tables described; the original license and source are named in each episode. Copyrighted readings get a summary only.
 
 **Podcast feed:** `{BASE}feed.xml`
 

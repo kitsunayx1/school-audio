@@ -5,12 +5,41 @@
       "folder": "week02",
       "date": "2026-10-13",
       "episodes": [
-        {"file": "00-week-summary.mp3", "title": "Week 2 Summary: Cyberspace, strategy and power", "description": "All five week 2 readings in one episode: what each argues, its evidence, links to week 1 (strategy, restraint, deterrence), and how the readings fit together."},
-        {"file": "01-foulon-meibauer.mp3", "title": "Week 2 Deep Dive: Foulon & Meibauer, cyberspace as a structural modifier", "description": "Foulon, M., & Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458."},
-        {"file": "02-fischerkeller-harknett.mp3", "title": "Week 2 Deep Dive: Fischerkeller & Harknett, the strategic nature of the digital age", "description": "Fischerkeller, M. P., & Harknett, R. J. (2023). The strategic nature of the digital age. The Brown Journal of World Affairs, 30(1)."},
-        {"file": "03-svete.mp3", "title": "Week 2 Deep Dive: Svete, how countries organize cybersecurity", "description": "Svete, U. (2025). Cybersecurity between technological determinism, political governance, and national security challenges. Journal of Comparative Politics, 18(2), 107-126."},
-        {"file": "04-zhang-et-al.mp3", "title": "Week 2 Deep Dive: Zhang et al., mapping cyberspace", "description": "Zhang, L., et al. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353."},
-        {"file": "05-epstein.mp3", "title": "Week 2 Deep Dive: Epstein, Google's Triple Threat", "description": "Epstein, R. (2022). Google's triple threat: To democracy, our children, and our minds. American Institute for Behavioral Research and Technology."}
+        {
+          "file": "01-foulon-meibauer-summary.mp3",
+          "title": "Week 2, Foulon & Meibauer: Summary",
+          "description": "Summary of Foulon, M., & Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458."
+        },
+        {
+          "file": "01-foulon-meibauer-full.mp3",
+          "title": "Week 2, Foulon & Meibauer: Full reading",
+          "description": "Adapted read-aloud of Foulon, M., & Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458. https://doi.org/10.1080/13523260.2024.2365062. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: citations, footnotes and references omitted; Table 1 described."
+        },
+        {
+          "file": "02-fischerkeller-harknett-summary.mp3",
+          "title": "Week 2, Fischerkeller & Harknett: Summary",
+          "description": "Summary of Fischerkeller, M. P., & Harknett, R. J. (2023). The strategic nature of the digital age. The Brown Journal of World Affairs, 30(1)."
+        },
+        {
+          "file": "03-svete-summary.mp3",
+          "title": "Week 2, Svete: Summary",
+          "description": "Summary of Svete, U. (2025). Cybersecurity between technological determinism, political governance, and national security challenges. Journal of Comparative Politics, 18(2), 107-126."
+        },
+        {
+          "file": "04-zhang-et-al-summary.mp3",
+          "title": "Week 2, Zhang et al.: Summary",
+          "description": "Summary of Zhang, L., et al. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353."
+        },
+        {
+          "file": "04-zhang-et-al-full.mp3",
+          "title": "Week 2, Zhang et al.: Full reading",
+          "description": "Adapted read-aloud of Zhang, L., Wang, G., You, X., Liu, Z., Ma, L., Tian, J., & Su, M. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353. https://doi.org/10.3390/ijgi12090353. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: citations and references omitted; abstract paraphrased; tables and figures described."
+        },
+        {
+          "file": "05-epstein-summary.mp3",
+          "title": "Week 2, Epstein: Summary",
+          "description": "Summary of Epstein, R. (2022). Google's triple threat: To democracy, our children, and our minds. American Institute for Behavioral Research and Technology."
+        }
       ]
     }
   ]
