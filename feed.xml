@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>NSEC506 Study Audio</title>
+    <link>https://github.com/kitsunayx1/school-audio</link>
+    <description>Weekly reading summaries and per-reading deep dives for NSEC506. AI-narrated study notes, not the original texts.</description>
+    <language>en-us</language>
+    <itunes:author>NSEC506 Study Audio</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Week 2 Summary: Cyberspace, strategy and power</title>
+      <description>All five week 2 readings in one episode: what each argues, its evidence, links to week 1 (strategy, restraint, deterrence), and how the readings fit together.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/00-week-summary.mp3" length="18112446" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/00-week-summary.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
