@@ -21,6 +21,16 @@
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
+      <title>Week 2, Zhang et al.: Full reading</title>
+      <description>Adapted read-aloud of Zhang, L., Wang, G., You, X., Liu, Z., Ma, L., Tian, J., &amp; Su, M. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353. https://doi.org/10.3390/ijgi12090353. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: citations and references omitted; abstract paraphrased; tables and figures described.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/04-zhang-et-al-full.mp3" length="29647629" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/04-zhang-et-al-full.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:41:10</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
       <title>Week 2, Zhang et al.: Summary</title>
       <description>Summary of Zhang, L., et al. (2023). Research on the cyberspace map and its conceptual model. ISPRS International Journal of Geo-Information, 12(9), 353.</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/04-zhang-et-al-summary.mp3" length="3501549" type="audio/mpeg"/>
@@ -49,6 +59,16 @@
       <itunes:duration>00:05:30</itunes:duration>
       <itunes:season>2</itunes:season>
       <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Week 2, Foulon &amp; Meibauer: Full reading</title>
+      <description>Adapted read-aloud of Foulon, M., &amp; Meibauer, G. (2024). How cyberspace affects international relations: The promise of structural modifiers. Contemporary Security Policy, 45(3), 426-458. https://doi.org/10.1080/13523260.2024.2365062. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: citations, footnotes and references omitted; Table 1 described.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week02/01-foulon-meibauer-full.mp3" length="54669069" type="audio/mpeg"/>
+      <guid isPermaLink="false">week02/01-foulon-meibauer-full.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>01:15:55</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Week 2, Foulon &amp; Meibauer: Summary</title>
