@@ -41,6 +41,48 @@
           "description": "Summary of Epstein, R. (2022). Google's triple threat: To democracy, our children, and our minds. American Institute for Behavioral Research and Technology."
         }
       ]
+    },
+    {
+      "week": 3,
+      "folder": "week03",
+      "date": "2026-10-19",
+      "episodes": [
+        {
+          "file": "01-farber-summary.mp3",
+          "title": "Week 3, Farber: Summary",
+          "description": "Summary of Farber, S. (2025). The evolving nexus of cybercrime and terrorism: A systematic review of convergence and policy implications. Security Journal, 38, Article 29."
+        },
+        {
+          "file": "01-farber-full.mp3",
+          "title": "Week 3, Farber: Full reading",
+          "description": "Adapted read-aloud of Farber, S. (2025). The evolving nexus of cybercrime and terrorism: A systematic review of convergence and policy implications. Security Journal, 38, Article 29. https://doi.org/10.1057/s41284-025-00471-7. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: citations, references, keywords and declarations omitted; hyphenation and minor punctuation fixed for listening."
+        },
+        {
+          "file": "02-broeders-et-al-summary.mp3",
+          "title": "Week 3, Broeders, Cristiano & Weggemans: Summary",
+          "description": "Summary of Broeders, D., Cristiano, F., & Weggemans, D. (2023). Too close for comfort: Cyber terrorism and information security across national policies and international diplomacy. Studies in Conflict & Terrorism, 46(12), 2426-2453."
+        },
+        {
+          "file": "03-giacomello-summary.mp3",
+          "title": "Week 3, Giacomello: Summary",
+          "description": "Summary of Giacomello, G. (2023). Research note: More bucks, still no bangs? Why a cost-benefit analysis of cyberterrorism still holds true. Studies in Conflict & Terrorism, 46(8), 1508-1517."
+        },
+        {
+          "file": "04-katagiri-summary.mp3",
+          "title": "Week 3, Katagiri: Summary",
+          "description": "Summary of Katagiri, N. (2024). Advanced persistent threats and the \"big four\": State-sponsored hackers in China, Iran, Russia, and North Korea in 2003-2021. Comparative Strategy, 43(3), 280-299."
+        },
+        {
+          "file": "05-mirsky-et-al-summary.mp3",
+          "title": "Week 3, Mirsky et al.: Summary",
+          "description": "Summary of Mirsky, Y., et al. (2021). The threat of offensive AI to organizations. arXiv:2106.15764."
+        },
+        {
+          "file": "06-nasem-summary.mp3",
+          "title": "Week 3, National Academies: Summary",
+          "description": "Summary of National Academies of Sciences, Engineering, and Medicine. (2025). Cybercrime classification and measurement (H. S. Stern & D. L. Cork, Eds.), Summary and Chapter 1. The National Academies Press."
+        }
+      ]
     }
   ]
 }
