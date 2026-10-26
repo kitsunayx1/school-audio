@@ -83,6 +83,48 @@
           "description": "Summary of National Academies of Sciences, Engineering, and Medicine. (2025). Cybercrime classification and measurement (H. S. Stern & D. L. Cork, Eds.), Summary and Chapter 1. The National Academies Press."
         }
       ]
+    },
+    {
+      "week": 4,
+      "folder": "week04",
+      "date": "2026-10-26",
+      "episodes": [
+        {
+          "file": "01-jiang-summary.mp3",
+          "title": "Week 4, Jiang: Summary",
+          "description": "Summary of Jiang, T. (2023). The shift of China's strategic thinking on cyberwarfare since the 1990s. Journal of Chinese Political Science, 28, 127-149."
+        },
+        {
+          "file": "02-adeyeri-et-al-summary.mp3",
+          "title": "Week 4, Adeyeri & Abroshan: Summary",
+          "description": "Summary of Adeyeri, A., & Abroshan, H. (2024). Geopolitical ramifications of cybersecurity threats: State responses and international cooperations in the digital warfare era. Information, 15(11), 682."
+        },
+        {
+          "file": "02-adeyeri-et-al-full.mp3",
+          "title": "Week 4, Adeyeri & Abroshan: Full reading",
+          "description": "Adapted read-aloud of Adeyeri, A., & Abroshan, H. (2024). Geopolitical ramifications of cybersecurity threats: State responses and international cooperations in the digital warfare era. Information, 15(11), 682. https://doi.org/10.3390/info15110682. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: in-text citations and references omitted; tables and figures described instead of read; hyphenation fixed for listening."
+        },
+        {
+          "file": "03-farrow-summary.mp3",
+          "title": "Week 4, Farrow: Summary",
+          "description": "Summary of Farrow, A. E. (2023, September). Modernization and the military-civil fusion strategy. Journal of Indo-Pacific Affairs, 102-114."
+        },
+        {
+          "file": "04-kumar-et-al-summary.mp3",
+          "title": "Week 4, Kumar et al.: Summary",
+          "description": "Summary of Kumar, S., Brown, G., Ragavan, S., Cerrato, M., & Nagar, G. (2025). NATO self-defense: Is Article 5 the right framework for responding to sub-kinetic cyber aggression? Proceedings of the 24th European Conference on Cyber Warfare and Security, 311-318."
+        },
+        {
+          "file": "05-kolodii-summary.mp3",
+          "title": "Week 4, Kolodii: Summary",
+          "description": "Summary of Kolodii, R. (2024). The pedagogy of Cyber-WAR: Explaining Ukraine's resilience against Russian Cyber-aggression. Defense & Security Analysis, 40(2), 270-291."
+        },
+        {
+          "file": "06-bucaj-summary.mp3",
+          "title": "Week 4, Bucaj: Summary",
+          "description": "Summary of Bucaj, D. (2023). The obligation to prevent transboundary cyber harm: Expand the regulatory regime or continue deflecting responsibility. The George Washington International Law Review, 54, 219-285."
+        }
+      ]
     }
   ]
 }
