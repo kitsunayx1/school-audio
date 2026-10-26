@@ -26,4 +26,13 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 - [Week 3, Mirsky et al.: Summary](week03/05-mirsky-et-al-summary.mp3) (00:05:26)
 - [Week 3, National Academies: Summary](week03/06-nasem-summary.mp3) (00:05:29)
 
+## Week 4
+
+- [Week 4, Jiang: Summary](week04/01-jiang-summary.mp3) (00:05:16)
+- [Week 4, Adeyeri & Abroshan: Summary](week04/02-adeyeri-et-al-summary.mp3) (00:05:06)
+- [Week 4, Farrow: Summary](week04/03-farrow-summary.mp3) (00:04:59)
+- [Week 4, Kumar et al.: Summary](week04/04-kumar-et-al-summary.mp3) (00:04:53)
+- [Week 4, Kolodii: Summary](week04/05-kolodii-summary.mp3) (00:05:48)
+- [Week 4, Bucaj: Summary](week04/06-bucaj-summary.mp3) (00:05:19)
+
 To add a week: drop MP3s in `weekNN/`, add entries to `episodes.json`, run `python3 tools/build_feed.py`.

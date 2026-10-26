@@ -11,6 +11,66 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
+      <title>Week 4, Bucaj: Summary</title>
+      <description>Summary of Bucaj, D. (2023). The obligation to prevent transboundary cyber harm: Expand the regulatory regime or continue deflecting responsibility. The George Washington International Law Review, 54, 219-285.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/06-bucaj-summary.mp3" length="3833901" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/06-bucaj-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Week 4, Kolodii: Summary</title>
+      <description>Summary of Kolodii, R. (2024). The pedagogy of Cyber-WAR: Explaining Ukraine's resilience against Russian Cyber-aggression. Defense &amp; Security Analysis, 40(2), 270-291.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/05-kolodii-summary.mp3" length="4178061" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/05-kolodii-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Week 4, Kumar et al.: Summary</title>
+      <description>Summary of Kumar, S., Brown, G., Ragavan, S., Cerrato, M., &amp; Nagar, G. (2025). NATO self-defense: Is Article 5 the right framework for responding to sub-kinetic cyber aggression? Proceedings of the 24th European Conference on Cyber Warfare and Security, 311-318.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/04-kumar-et-al-summary.mp3" length="3519117" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/04-kumar-et-al-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Week 4, Farrow: Summary</title>
+      <description>Summary of Farrow, A. E. (2023, September). Modernization and the military-civil fusion strategy. Journal of Indo-Pacific Affairs, 102-114.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/03-farrow-summary.mp3" length="3591693" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/03-farrow-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Week 4, Adeyeri &amp; Abroshan: Summary</title>
+      <description>Summary of Adeyeri, A., &amp; Abroshan, H. (2024). Geopolitical ramifications of cybersecurity threats: State responses and international cooperations in the digital warfare era. Information, 15(11), 682.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/02-adeyeri-et-al-summary.mp3" length="3675501" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/02-adeyeri-et-al-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Week 4, Jiang: Summary</title>
+      <description>Summary of Jiang, T. (2023). The shift of China's strategic thinking on cyberwarfare since the 1990s. Journal of Chinese Political Science, 28, 127-149.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/01-jiang-summary.mp3" length="3801357" type="audio/mpeg"/>
+      <guid isPermaLink="false">week04/01-jiang-summary.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 12:07:00 +0000</pubDate>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
       <title>Week 3, National Academies: Summary</title>
       <description>Summary of National Academies of Sciences, Engineering, and Medicine. (2025). Cybercrime classification and measurement (H. S. Stern &amp; D. L. Cork, Eds.), Summary and Chapter 1. The National Academies Press.</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week03/06-nasem-summary.mp3" length="3957165" type="audio/mpeg"/>
