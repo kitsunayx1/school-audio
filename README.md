@@ -30,6 +30,7 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 
 - [Week 4, Jiang: Summary](week04/01-jiang-summary.mp3) (00:05:16)
 - [Week 4, Adeyeri & Abroshan: Summary](week04/02-adeyeri-et-al-summary.mp3) (00:05:06)
+- [Week 4, Adeyeri & Abroshan: Full reading](week04/02-adeyeri-et-al-full.mp3) (01:20:05)
 - [Week 4, Farrow: Summary](week04/03-farrow-summary.mp3) (00:04:59)
 - [Week 4, Kumar et al.: Summary](week04/04-kumar-et-al-summary.mp3) (00:04:53)
 - [Week 4, Kolodii: Summary](week04/05-kolodii-summary.mp3) (00:05:48)
