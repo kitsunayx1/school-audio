@@ -11,6 +11,56 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
+      <title>Week 5, Halunen &amp; Keinonen: Summary</title>
+      <description>Summary of Halunen, K., &amp; Keinonen, M. (2025). Signalling cyber deterrence through D3FEND. In Proceedings of the 24th European Conference on Cyber Warfare and Security (pp. 177-184).</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/05-halunen-keinonen-summary.mp3" length="3151341" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/05-halunen-keinonen-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Kello: Summary</title>
+      <description>Summary of Kello, L. (2017). The deterrence puzzle: Doctrinal problems and remedies. In The virtual weapon and international order (pp. 195-211). Yale University Press.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/04-kello-summary.mp3" length="3574701" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/04-kello-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Li: Summary</title>
+      <description>Summary of Li, T. Y. (2024). Asymmetry in the digital age: Cyber deterrence strategies for small states. Journal of Strategic Security, 17(4), 71-88.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/03-li-summary.mp3" length="3776301" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/03-li-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Digmelashvili &amp; Lagvilava: Summary</title>
+      <description>Summary of Digmelashvili, T., &amp; Lagvilava, L. (2023). Cyber deterrence strategies in the 21st century. Future Human Image, 20, 6-17.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/02-digmelashvili-lagvilava-summary.mp3" length="2955213" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/02-digmelashvili-lagvilava-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:04:06</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Platte: Summary</title>
+      <description>Summary of Platte, J. E. (2023). Bilateral alliances in an interconnected cyber world: Cyber deterrence and operational control in the US Indo-Pacific strategy. Asian Perspective, 47(1), 75-99.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/01-platte-summary.mp3" length="3685005" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/01-platte-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
       <title>Week 4, Bucaj: Summary</title>
       <description>Summary of Bucaj, D. (2023). The obligation to prevent transboundary cyber harm: Expand the regulatory regime or continue deflecting responsibility. The George Washington International Law Review, 54, 219-285.</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week04/06-bucaj-summary.mp3" length="3833901" type="audio/mpeg"/>

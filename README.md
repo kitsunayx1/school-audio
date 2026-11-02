@@ -36,4 +36,12 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 - [Week 4, Kolodii: Summary](week04/05-kolodii-summary.mp3) (00:05:48)
 - [Week 4, Bucaj: Summary](week04/06-bucaj-summary.mp3) (00:05:19)
 
+## Week 5
+
+- [Week 5, Platte: Summary](week05/01-platte-summary.mp3) (00:05:07)
+- [Week 5, Digmelashvili & Lagvilava: Summary](week05/02-digmelashvili-lagvilava-summary.mp3) (00:04:06)
+- [Week 5, Li: Summary](week05/03-li-summary.mp3) (00:05:14)
+- [Week 5, Kello: Summary](week05/04-kello-summary.mp3) (00:04:57)
+- [Week 5, Halunen & Keinonen: Summary](week05/05-halunen-keinonen-summary.mp3) (00:04:22)
+
 To add a week: drop MP3s in `weekNN/`, add entries to `episodes.json`, run `python3 tools/build_feed.py`.
