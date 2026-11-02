@@ -125,6 +125,38 @@
           "description": "Summary of Bucaj, D. (2023). The obligation to prevent transboundary cyber harm: Expand the regulatory regime or continue deflecting responsibility. The George Washington International Law Review, 54, 219-285."
         }
       ]
+    },
+    {
+      "week": 5,
+      "folder": "week05",
+      "date": "2026-11-02",
+      "episodes": [
+        {
+          "file": "01-platte-summary.mp3",
+          "title": "Week 5, Platte: Summary",
+          "description": "Summary of Platte, J. E. (2023). Bilateral alliances in an interconnected cyber world: Cyber deterrence and operational control in the US Indo-Pacific strategy. Asian Perspective, 47(1), 75-99."
+        },
+        {
+          "file": "02-digmelashvili-lagvilava-summary.mp3",
+          "title": "Week 5, Digmelashvili & Lagvilava: Summary",
+          "description": "Summary of Digmelashvili, T., & Lagvilava, L. (2023). Cyber deterrence strategies in the 21st century. Future Human Image, 20, 6-17."
+        },
+        {
+          "file": "03-li-summary.mp3",
+          "title": "Week 5, Li: Summary",
+          "description": "Summary of Li, T. Y. (2024). Asymmetry in the digital age: Cyber deterrence strategies for small states. Journal of Strategic Security, 17(4), 71-88."
+        },
+        {
+          "file": "04-kello-summary.mp3",
+          "title": "Week 5, Kello: Summary",
+          "description": "Summary of Kello, L. (2017). The deterrence puzzle: Doctrinal problems and remedies. In The virtual weapon and international order (pp. 195-211). Yale University Press."
+        },
+        {
+          "file": "05-halunen-keinonen-summary.mp3",
+          "title": "Week 5, Halunen & Keinonen: Summary",
+          "description": "Summary of Halunen, K., & Keinonen, M. (2025). Signalling cyber deterrence through D3FEND. In Proceedings of the 24th European Conference on Cyber Warfare and Security (pp. 177-184)."
+        }
+      ]
     }
   ]
 }
