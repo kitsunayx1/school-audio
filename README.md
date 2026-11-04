@@ -38,6 +38,8 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 
 ## Week 5
 
+- [Week 5, Lonergan & Schneider: Summary](week05/00-lonergan-schneider-summary.mp3) (00:04:52)
+- [Week 5, Lonergan & Schneider: Full reading](week05/00-lonergan-schneider-full.mp3) (00:49:42)
 - [Week 5, Platte: Summary](week05/01-platte-summary.mp3) (00:05:07)
 - [Week 5, Digmelashvili & Lagvilava: Summary](week05/02-digmelashvili-lagvilava-summary.mp3) (00:04:06)
 - [Week 5, Li: Summary](week05/03-li-summary.mp3) (00:05:14)
