@@ -11,6 +11,56 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
+      <title>Week 6, Hunter et al.: Summary</title>
+      <description>Summary of Hunter, L. Y., Albert, C. D., Cauthron, S., &amp; Antilla, R. (2024). When democracies attack: Examining the offensive strategies of democracies in cyberspace. Global Perspectives, 5(1).</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/05-hunter-et-al-summary.mp3" length="3757293" type="audio/mpeg"/>
+      <guid isPermaLink="false">week06/05-hunter-et-al-summary.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Week 6, Yun: Summary</title>
+      <description>Summary of Yun, H. (2025). Reassessing North Korea's evolving cyber threat and South Korea's countermeasures. North Korean Review, 21(1), 70-91.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/04-yun-summary.mp3" length="3679245" type="audio/mpeg"/>
+      <guid isPermaLink="false">week06/04-yun-summary.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>Week 6, Kostyuk &amp; Gartzke: Summary</title>
+      <description>Summary of Kostyuk, N., &amp; Gartzke, E. (2024). Fighting in cyberspace: Internet access and the substitutability of cyber and military operations. Journal of Conflict Resolution, 68(1), 80-107.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/03-kostyuk-gartzke-summary.mp3" length="3314637" type="audio/mpeg"/>
+      <guid isPermaLink="false">week06/03-kostyuk-gartzke-summary.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Week 6, Johansmeyer, Mott &amp; Nurse: Summary</title>
+      <description>Summary of Johansmeyer, T., Mott, G., &amp; Nurse, J. R. C. (2024). Cyber strategy in practice: The evolution of US, Russian and Ukrainian national cyber security strategies through the experience of war. The RUSI Journal, 169(3), 40-51.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/02-johansmeyer-mott-nurse-summary.mp3" length="3653325" type="audio/mpeg"/>
+      <guid isPermaLink="false">week06/02-johansmeyer-mott-nurse-summary.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Week 6, Maschmeyer: Summary</title>
+      <description>Summary of Maschmeyer, L. (2023). A new and better quiet option? Strategies of subversion and cyber conflict. Journal of Strategic Studies, 46(3), 570-594.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/01-maschmeyer-summary.mp3" length="4035789" type="audio/mpeg"/>
+      <guid isPermaLink="false">week06/01-maschmeyer-summary.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>00:05:36</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
       <title>Week 5, Halunen &amp; Keinonen: Summary</title>
       <description>Summary of Halunen, K., &amp; Keinonen, M. (2025). Signalling cyber deterrence through D3FEND. In Proceedings of the 24th European Conference on Cyber Warfare and Security (pp. 177-184).</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/05-halunen-keinonen-summary.mp3" length="3151341" type="audio/mpeg"/>

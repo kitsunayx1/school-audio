@@ -157,6 +157,38 @@
           "description": "Summary of Halunen, K., & Keinonen, M. (2025). Signalling cyber deterrence through D3FEND. In Proceedings of the 24th European Conference on Cyber Warfare and Security (pp. 177-184)."
         }
       ]
+    },
+    {
+      "week": 6,
+      "folder": "week06",
+      "date": "2026-11-04",
+      "episodes": [
+        {
+          "file": "01-maschmeyer-summary.mp3",
+          "title": "Week 6, Maschmeyer: Summary",
+          "description": "Summary of Maschmeyer, L. (2023). A new and better quiet option? Strategies of subversion and cyber conflict. Journal of Strategic Studies, 46(3), 570-594."
+        },
+        {
+          "file": "02-johansmeyer-mott-nurse-summary.mp3",
+          "title": "Week 6, Johansmeyer, Mott & Nurse: Summary",
+          "description": "Summary of Johansmeyer, T., Mott, G., & Nurse, J. R. C. (2024). Cyber strategy in practice: The evolution of US, Russian and Ukrainian national cyber security strategies through the experience of war. The RUSI Journal, 169(3), 40-51."
+        },
+        {
+          "file": "03-kostyuk-gartzke-summary.mp3",
+          "title": "Week 6, Kostyuk & Gartzke: Summary",
+          "description": "Summary of Kostyuk, N., & Gartzke, E. (2024). Fighting in cyberspace: Internet access and the substitutability of cyber and military operations. Journal of Conflict Resolution, 68(1), 80-107."
+        },
+        {
+          "file": "04-yun-summary.mp3",
+          "title": "Week 6, Yun: Summary",
+          "description": "Summary of Yun, H. (2025). Reassessing North Korea's evolving cyber threat and South Korea's countermeasures. North Korean Review, 21(1), 70-91."
+        },
+        {
+          "file": "05-hunter-et-al-summary.mp3",
+          "title": "Week 6, Hunter et al.: Summary",
+          "description": "Summary of Hunter, L. Y., Albert, C. D., Cauthron, S., & Antilla, R. (2024). When democracies attack: Examining the offensive strategies of democracies in cyberspace. Global Perspectives, 5(1)."
+        }
+      ]
     }
   ]
 }
