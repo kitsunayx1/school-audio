@@ -68,7 +68,7 @@
       <pubDate>Mon, 02 Nov 2026 12:01:00 +0000</pubDate>
       <itunes:duration>00:04:22</itunes:duration>
       <itunes:season>5</itunes:season>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>7</itunes:episode>
     </item>
     <item>
       <title>Week 5, Kello: Summary</title>
@@ -78,7 +78,7 @@
       <pubDate>Mon, 02 Nov 2026 12:02:00 +0000</pubDate>
       <itunes:duration>00:04:57</itunes:duration>
       <itunes:season>5</itunes:season>
-      <itunes:episode>4</itunes:episode>
+      <itunes:episode>6</itunes:episode>
     </item>
     <item>
       <title>Week 5, Li: Summary</title>
@@ -88,7 +88,7 @@
       <pubDate>Mon, 02 Nov 2026 12:03:00 +0000</pubDate>
       <itunes:duration>00:05:14</itunes:duration>
       <itunes:season>5</itunes:season>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>5</itunes:episode>
     </item>
     <item>
       <title>Week 5, Digmelashvili &amp; Lagvilava: Summary</title>
@@ -98,7 +98,7 @@
       <pubDate>Mon, 02 Nov 2026 12:04:00 +0000</pubDate>
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:season>5</itunes:season>
-      <itunes:episode>2</itunes:episode>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Week 5, Platte: Summary</title>
@@ -107,6 +107,26 @@
       <guid isPermaLink="false">week05/01-platte-summary.mp3</guid>
       <pubDate>Mon, 02 Nov 2026 12:05:00 +0000</pubDate>
       <itunes:duration>00:05:07</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Lonergan &amp; Schneider: Full reading</title>
+      <description>Full read-aloud of Lonergan, E. D., &amp; Schneider, J. (2023). The power of beliefs in US cyber strategy: The evolving role of deterrence, norms, and escalation. Journal of Cybersecurity, 9(1), 1-10. https://doi.org/10.1093/cybsec/tyad006 Open access under the Creative Commons Attribution-NonCommercial 4.0 license (https://creativecommons.org/licenses/by-nc/4.0/), (c) The Author(s) 2023, published by Oxford University Press. Changes: numbered citations and the reference list are not read, and Table 1 is described in words. AI-narrated, non-commercial study use.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/00-lonergan-schneider-full.mp3" length="35786925" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/00-lonergan-schneider-full.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>00:49:42</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Week 5, Lonergan &amp; Schneider: Summary</title>
+      <description>Summary of Lonergan, E. D., &amp; Schneider, J. (2023). The power of beliefs in US cyber strategy: The evolving role of deterrence, norms, and escalation. Journal of Cybersecurity, 9(1), 1-10. https://doi.org/10.1093/cybsec/tyad006</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week05/00-lonergan-schneider-summary.mp3" length="3515949" type="audio/mpeg"/>
+      <guid isPermaLink="false">week05/00-lonergan-schneider-summary.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 12:07:00 +0000</pubDate>
+      <itunes:duration>00:04:52</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
