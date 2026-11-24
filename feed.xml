@@ -11,6 +11,66 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
+      <title>Week 8, National Cybersecurity Strategy 2023: Summary</title>
+      <description>Summary of The White House. (2023). National cybersecurity strategy.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/05-national-cybersecurity-strategy-2023-summary.mp3" length="3574701" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/05-national-cybersecurity-strategy-2023-summary.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, DoD 2023 Cyber Strategy: Full reading</title>
+      <description>Read-aloud of U.S. Department of Defense. (2023). 2023 cyber strategy of the Department of Defense [Unclassified summary]. A work of the U.S. government, in the public domain. Changes: table of contents and photo captions omitted.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/04-dod-cyber-strategy-2023-full.mp3" length="26305389" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/04-dod-cyber-strategy-2023-full.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:36:32</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, DoD 2023 Cyber Strategy: Summary</title>
+      <description>Summary of U.S. Department of Defense. (2023). 2023 cyber strategy of the Department of Defense [Unclassified summary].</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/04-dod-cyber-strategy-2023-summary.mp3" length="3364461" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/04-dod-cyber-strategy-2023-summary.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, ODNI Annual Threat Assessment 2025: Summary</title>
+      <description>Summary of Office of the Director of National Intelligence. (2025). Annual threat assessment of the U.S. intelligence community.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/03-odni-ata-2025-summary.mp3" length="3150189" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/03-odni-ata-2025-summary.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, Lonergan: Summary</title>
+      <description>Summary of Lonergan, E. D. (2024). Emerging technology and the cult of the offensive. Contemporary Security Policy, 45(3), 459-493.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/02-lonergan-summary.mp3" length="3404493" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/02-lonergan-summary.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:07:00 +0000</pubDate>
+      <itunes:duration>00:04:43</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, Jensen, Valeriano &amp; Whitt: Summary</title>
+      <description>Summary of Jensen, B., Valeriano, B., &amp; Whitt, S. (2024). How cyber operations can reduce escalation pressures: Evidence from an experimental wargame study. Journal of Peace Research, 61(1), 119-133.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/01-jensen-valeriano-whitt-summary.mp3" length="3488877" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/01-jensen-valeriano-whitt-summary.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:08:00 +0000</pubDate>
+      <itunes:duration>00:04:50</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
       <title>Week 6, Hunter et al.: Summary</title>
       <description>Summary of Hunter, L. Y., Albert, C. D., Cauthron, S., &amp; Antilla, R. (2024). When democracies attack: Examining the offensive strategies of democracies in cyberspace. Global Perspectives, 5(1).</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week06/05-hunter-et-al-summary.mp3" length="3757293" type="audio/mpeg"/>

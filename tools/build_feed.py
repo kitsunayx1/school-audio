@@ -64,7 +64,7 @@ open(os.path.join(ROOT, "feed.xml"), "w").write(feed)
 
 open(os.path.join(ROOT, "README.md"), "w").write(f"""# NSEC506 Study Audio
 
-AI-narrated audio for NSEC506 readings, sorted by week. Each reading gets a summary episode (paraphrased study notes). Readings published under an open license (Creative Commons Attribution) also get a full read-aloud, with in-text citations, footnotes and references left out and tables described; the original license and source are named in each episode. Copyrighted readings get a summary only.
+AI-narrated audio for NSEC506 readings, sorted by week. Each reading gets a summary episode (paraphrased study notes). Readings published under an open license (Creative Commons Attribution) or in the public domain (U.S. government works) also get a full read-aloud, with in-text citations, footnotes and references left out and tables described; the original license or public-domain status and the source are named in each episode. Copyrighted readings get a summary only.
 
 **Podcast feed:** `{BASE}feed.xml`
 
