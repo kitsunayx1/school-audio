@@ -1,6 +1,6 @@
 # NSEC506 Study Audio
 
-AI-narrated audio for NSEC506 readings, sorted by week. Each reading gets a summary episode (paraphrased study notes). Readings published under an open license (Creative Commons Attribution) also get a full read-aloud, with in-text citations, footnotes and references left out and tables described; the original license and source are named in each episode. Copyrighted readings get a summary only.
+AI-narrated audio for NSEC506 readings, sorted by week. Each reading gets a summary episode (paraphrased study notes). Readings published under an open license (Creative Commons Attribution) or in the public domain (U.S. government works) also get a full read-aloud, with in-text citations, footnotes and references left out and tables described; the original license or public-domain status and the source are named in each episode. Copyrighted readings get a summary only.
 
 **Podcast feed:** `https://raw.githubusercontent.com/kitsunayx1/school-audio/main/feed.xml`
 
@@ -53,5 +53,14 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 - [Week 6, Kostyuk & Gartzke: Summary](week06/03-kostyuk-gartzke-summary.mp3) (00:04:36)
 - [Week 6, Yun: Summary](week06/04-yun-summary.mp3) (00:05:06)
 - [Week 6, Hunter et al.: Summary](week06/05-hunter-et-al-summary.mp3) (00:05:13)
+
+## Week 8
+
+- [Week 8, Jensen, Valeriano & Whitt: Summary](week08/01-jensen-valeriano-whitt-summary.mp3) (00:04:50)
+- [Week 8, Lonergan: Summary](week08/02-lonergan-summary.mp3) (00:04:43)
+- [Week 8, ODNI Annual Threat Assessment 2025: Summary](week08/03-odni-ata-2025-summary.mp3) (00:04:22)
+- [Week 8, DoD 2023 Cyber Strategy: Summary](week08/04-dod-cyber-strategy-2023-summary.mp3) (00:04:40)
+- [Week 8, DoD 2023 Cyber Strategy: Full reading](week08/04-dod-cyber-strategy-2023-full.mp3) (00:36:32)
+- [Week 8, National Cybersecurity Strategy 2023: Summary](week08/05-national-cybersecurity-strategy-2023-summary.mp3) (00:04:57)
 
 To add a week: drop MP3s in `weekNN/`, add entries to `episodes.json`, run `python3 tools/build_feed.py`.
