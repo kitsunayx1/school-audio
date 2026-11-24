@@ -11,6 +11,16 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
     <item>
+      <title>Week 8, National Cybersecurity Strategy 2023: Full reading</title>
+      <description>Read-aloud of The White House. (2023). National cybersecurity strategy. https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf. A work of the U.S. government, in the public domain. Changes: table of contents omitted.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/05-national-cybersecurity-strategy-2023-full.mp3" length="74469933" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/05-national-cybersecurity-strategy-2023-full.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>01:43:25</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
       <title>Week 8, National Cybersecurity Strategy 2023: Summary</title>
       <description>Summary of The White House. (2023). National cybersecurity strategy.</description>
       <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/05-national-cybersecurity-strategy-2023-summary.mp3" length="3574701" type="audio/mpeg"/>
@@ -39,6 +49,16 @@
       <itunes:duration>00:04:40</itunes:duration>
       <itunes:season>8</itunes:season>
       <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Week 8, ODNI Annual Threat Assessment 2025: Full reading</title>
+      <description>Read-aloud of Office of the Director of National Intelligence. (2025). Annual threat assessment of the U.S. intelligence community. A work of the U.S. government, in the public domain. Changes: table of contents omitted; text boxes read at the end of the country section they appear in.</description>
+      <enclosure url="https://raw.githubusercontent.com/kitsunayx1/school-audio/main/week08/03-odni-ata-2025-full.mp3" length="61593741" type="audio/mpeg"/>
+      <guid isPermaLink="false">week08/03-odni-ata-2025-full.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>01:25:32</itunes:duration>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
     </item>
     <item>
       <title>Week 8, ODNI Annual Threat Assessment 2025: Summary</title>

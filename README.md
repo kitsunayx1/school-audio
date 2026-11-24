@@ -59,8 +59,10 @@ Add that URL in any podcast app that supports adding a show by URL (Pocket Casts
 - [Week 8, Jensen, Valeriano & Whitt: Summary](week08/01-jensen-valeriano-whitt-summary.mp3) (00:04:50)
 - [Week 8, Lonergan: Summary](week08/02-lonergan-summary.mp3) (00:04:43)
 - [Week 8, ODNI Annual Threat Assessment 2025: Summary](week08/03-odni-ata-2025-summary.mp3) (00:04:22)
+- [Week 8, ODNI Annual Threat Assessment 2025: Full reading](week08/03-odni-ata-2025-full.mp3) (01:25:32)
 - [Week 8, DoD 2023 Cyber Strategy: Summary](week08/04-dod-cyber-strategy-2023-summary.mp3) (00:04:40)
 - [Week 8, DoD 2023 Cyber Strategy: Full reading](week08/04-dod-cyber-strategy-2023-full.mp3) (00:36:32)
 - [Week 8, National Cybersecurity Strategy 2023: Summary](week08/05-national-cybersecurity-strategy-2023-summary.mp3) (00:04:57)
+- [Week 8, National Cybersecurity Strategy 2023: Full reading](week08/05-national-cybersecurity-strategy-2023-full.mp3) (01:43:25)
 
 To add a week: drop MP3s in `weekNN/`, add entries to `episodes.json`, run `python3 tools/build_feed.py`.
